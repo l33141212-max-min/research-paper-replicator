@@ -1,4 +1,4 @@
-# research-paper-replicator
+
 # AI/ML Research Paper Replicator
 
 An end-to-end NLP pipeline that ingests academic research papers (PDF) and automatically extracts structured technical intelligence — model architecture, training methodology, benchmark results, and step-by-step replication guides.
